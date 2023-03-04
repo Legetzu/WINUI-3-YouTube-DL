@@ -1,0 +1,10 @@
+﻿{
+    "profiles": {
+      "WINUI3_YTDL (Package)": {
+        "commandName": "MsixPackage"
+      },
+      "WINUI3_YTDL (Unpackaged)": {
+        "commandName": "Project"
+      }
+    }
+}
